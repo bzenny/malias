@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Malia's Salon & Spa",
+  "description": "A luxury wellness and beauty destination in Silay City, offering Swedish massage, body scrubs, and professional salon services with a focus on tranquility and rejuvenation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
